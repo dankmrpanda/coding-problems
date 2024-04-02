@@ -1,0 +1,2 @@
+Various programming languages are: Java, Python, Visual BASIC, C++, Lisp, C#, FORTRAN, R, SQL.  Javascript is the language of the Internet!  HTML stands for Hypertext Markup Language and is not really a coding language!  There are over 300 languages.  Which one do you like best?
+Java is the language of AP CS! Where is Lisp used?

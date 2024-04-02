@@ -1,0 +1,2 @@
+To be or not to be, that is the question - a quote by William Shakespeare.  2B or not 2B - a hexadecimal equivalent!  How would you write it?
+Boolean is always True!
