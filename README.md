@@ -4,4 +4,4 @@ Mainly going to update ACSL ones
 
 `Raymond Jiang (for ACSL leaderboard)`
 
-### Repo be private until competition rounds end
+### Repo be private during competition rounds
