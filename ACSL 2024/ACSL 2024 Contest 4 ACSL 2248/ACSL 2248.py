@@ -1,3 +1,8 @@
+'''
+All following code is written by Isabel Ku
+https://github.com/origamistarz
+'''
+
 #!/bin/python3
 
 import math
